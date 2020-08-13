@@ -152,10 +152,18 @@ B19052_001E,B19052,Wage Or Salary Income In The Past 12 Months For Households,Es
 B19052_001E_R,B19052,Wage Or Salary Income In The Past 12 Months For Households,Estimate|Pct households with Wage or Salary Income,n,k,house_wage_sal_pct
 B19052_002E,B19052,Wage Or Salary Income In The Past 12 Months For Households,Estimate|Total|With wage or salary income,y,k,house_wage_sal_yes
 B19052_003E,B19052,Wage Or Salary Income In The Past 12 Months For Households,Estimate|Total|No wage or salary income,y,k,house_wage_sal_no
+B19053_001E,B19053,Self-Employment Income In The Past 12 Months For Households,Estimate|Total,y,x,
+B19053_001E_R,B19053,Self-Employment Income In The Past 12 Months For Households,Estimate|Pct households with Self-Employment Income,n,k,house_self_emp_pct
+B19053_002E,B19053,Self-Employment Income In The Past 12 Months For Households,Estimate|Total|With Self-Employment Income,y,k,house_self_emp_yes
+B19053_003E,B19053,Self-Employment Income In The Past 12 Months For Households,Estimate|Total|No Self-Employment Income,y,k,house_self_emp_no
+B19054_001E,B19054,"Interest, Dividends, or Net Rental Income In The Past 12 Months For Households",Estimate|Total,y,x,
+B19054_001E_R,B19054,"Interest, Dividends, or Net Rental Income In The Past 12 Months For Households","Estimate|Pct households with Interest, Dividends, or Net Rental Income",n,k,house_int_div_rent_pct
+B19054_002E,B19054,"Interest, Dividends, or Net Rental Income In The Past 12 Months For Households","Estimate|Total|With Interest, Dividends, or Net Rental Income",y,k,house_int_div_rent_yes
+B19054_003E,B19054,"Interest, Dividends, or Net Rental Income In The Past 12 Months For Households","Estimate|Total|No Interest, Dividends, or Net Rental Income",y,k,house_int_div_rent_no
 B19055_001E,B19055,Social Security Income In The Past 12 Months For Households,Estimate|Total,y,x,
 B19055_001E_R,B19055,Social Security Income In The Past 12 Months For Households,Estimate|Pct households with Social Security Income,n,k,house_soc_sec_pct
-B19055_002E,B19055,Social Security Income In The Past 12 Months For Households,Estimate|Total|With Social Security income,y,k,house_soc_sec_yes
-B19055_003E,B19055,Social Security Income In The Past 12 Months For Households,Estimate|Total|No Social Security income,y,k,house_soc_sec_no
+B19055_002E,B19055,Social Security Income In The Past 12 Months For Households,Estimate|Total|With Social Security Income (SSI),y,k,house_soc_sec_yes
+B19055_003E,B19055,Social Security Income In The Past 12 Months For Households,Estimate|Total|No Social Security Income (SSI),y,k,house_soc_sec_no
 B19056_001E,B19056,Supplemental Security Income (Ssi) In The Past 12 Months For Households,Estimate|Total,y,x,
 B19056_001E_R,B19056,Supplemental Security Income (Ssi) In The Past 12 Months For Households,Estimate|Pct households with Supplemental Security Income,n,k,house_sup_sec_pct
 B19056_002E,B19056,Supplemental Security Income (Ssi) In The Past 12 Months For Households,Estimate|Total|With Supplemental Security Income (SSI),y,k,house_sup_sec_yes
@@ -172,6 +180,10 @@ B19059_001E,B19059,Retirement Income In The Past 12 Months For Households,Estima
 B19059_001E_R,B19059,Retirement Income In The Past 12 Months For Households,Estimate|Pct households with Retirement Income,n,k,house_retire_pct
 B19059_002E,B19059,Retirement Income In The Past 12 Months For Households,Estimate|Total|With retirement income,y,k,house_retire_yes
 B19059_003E,B19059,Retirement Income In The Past 12 Months For Households,Estimate|Total|No retirement income,y,k,house_retire_no
+B19060_001E,B19060,Other Types of Income In The Past 12 Months For Households,Estimate|Total,y,x,
+B19060_001E_R,B19060,Other Types of Income In The Past 12 Months For Households,Estimate|Pct households with Other Types of Income,n,k,house_other_pct
+B19060_002E,B19060,Other Types of Income In The Past 12 Months For Households,Estimate|Total|With Other Types of Income,y,k,house_other_yes
+B19060_003E,B19060,Other Types of Income In The Past 12 Months For Households,Estimate|Total|No Other Types of Income,y,k,house_other_no
 B19301_001E,B19301,Per Capita Income In The Past 12 Months (In 2018 Inflation-Adjusted Dollars),Estimate|Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),y,k,ann_per_cap_inc
 B19301A_001E,B19301A,Per Capita Income In The Past 12 Months (In 2018 Inflation-Adjusted Dollars) (White Alone),Estimate|Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),y,k,ann_per_cap_inc_w
 B19301B_001E,B19301B,Per Capita Income In The Past 12 Months (In 2018 Inflation-Adjusted Dollars) (Black Or African American Alone),Estimate|Per capita income in the past 12 months (in 2018 inflation-adjusted dollars),y,k,ann_per_cap_inc_b
